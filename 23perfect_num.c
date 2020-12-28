@@ -1,5 +1,5 @@
 //For example, 6 is a perfect number in C because 6 is divisible by 1, 2, 3, and 6.
-// So, the sum of these values is 1+2+3 = 6
+//So, the sum of these values is 1+2+3 = 6
 
 # include <stdio.h>   
 
